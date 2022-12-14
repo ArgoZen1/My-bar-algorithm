@@ -1,9 +1,19 @@
 import React from 'react';
-
-const CoktailCard = () => {
+import './CoktailCard.sass';
+import mojito from '../../assets/coktails/mojito.jpg'
+//name
+//ingredients list
+const CoktailCard = (props) => {
     return (
-        <div>
-            Hello World !!! 
+        <div className='coktailCard'>
+            <img className='coktailImage' src={props.image} />
+            <h1 className='coktailName'>{props.name}</h1>
+            <div className='separator'></div>
+            <ol className='ingredientList'>
+                {props.ingredients.map(ingredient =>
+                    <li>{ingredient}</li>
+                )}
+            </ol>
         </div>
     );
 };
