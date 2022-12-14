@@ -1,9 +1,11 @@
 import React from 'react';
 import './CoktailCard.sass';
-import mojito from '../../assets/coktails/mojito.jpg'
+
 //name
 //ingredients list
 const CoktailCard = (props) => {
+
+
     return (
         <div className='coktailCard'>
             <img className='coktailImage' src={props.image} />
@@ -14,6 +16,9 @@ const CoktailCard = (props) => {
                     <li>{ingredient}</li>
                 )}
             </ol>
+
+
+
         </div>
     );
 };
