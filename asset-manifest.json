@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ArgoZen1/My-bar-algorithm/static/css/main.3a789c21.css",
-    "main.js": "/ArgoZen1/My-bar-algorithm/static/js/main.844ddd41.js",
-    "static/js/787.f726a875.chunk.js": "/ArgoZen1/My-bar-algorithm/static/js/787.f726a875.chunk.js",
-    "static/media/Pineapple.png": "/ArgoZen1/My-bar-algorithm/static/media/Pineapple.4c67fa50a7c55f48515e.png",
-    "static/media/Cointreau.jpeg": "/ArgoZen1/My-bar-algorithm/static/media/Cointreau.ac422b4cb8527a1ea898.jpeg",
-    "static/media/Moktail.png": "/ArgoZen1/My-bar-algorithm/static/media/Moktail.317521b965fd166857ab.png",
-    "static/media/sexOnTheBeach.png": "/ArgoZen1/My-bar-algorithm/static/media/sexOnTheBeach.2bd1748cbe8d929ee946.png",
-    "static/media/Americano.jpg": "/ArgoZen1/My-bar-algorithm/static/media/Americano.178f748c65237406085f.jpg",
-    "static/media/mojito.jpg": "/ArgoZen1/My-bar-algorithm/static/media/mojito.171f2fbba257658e3cfb.jpg",
-    "static/media/Mimosa.jpg": "/ArgoZen1/My-bar-algorithm/static/media/Mimosa.c50b7acc028b7619f972.jpg",
-    "static/media/vodkaOrange.webp": "/ArgoZen1/My-bar-algorithm/static/media/vodkaOrange.abd235dda5dbd0456d4a.webp",
-    "static/media/Hurricane.jpg": "/ArgoZen1/My-bar-algorithm/static/media/Hurricane.f0abbc59b2b7a21961b0.jpg",
-    "static/media/BlueLagon.webp": "/ArgoZen1/My-bar-algorithm/static/media/BlueLagon.a4e337e7ceca65cad795.webp",
-    "index.html": "/ArgoZen1/My-bar-algorithm/index.html",
-    "main.3a789c21.css.map": "/ArgoZen1/My-bar-algorithm/static/css/main.3a789c21.css.map",
-    "main.844ddd41.js.map": "/ArgoZen1/My-bar-algorithm/static/js/main.844ddd41.js.map",
-    "787.f726a875.chunk.js.map": "/ArgoZen1/My-bar-algorithm/static/js/787.f726a875.chunk.js.map"
+    "main.css": "/My-bar-algorithm/static/css/main.3a789c21.css",
+    "main.js": "/My-bar-algorithm/static/js/main.b50d91b3.js",
+    "static/js/787.f726a875.chunk.js": "/My-bar-algorithm/static/js/787.f726a875.chunk.js",
+    "static/media/Pineapple.png": "/My-bar-algorithm/static/media/Pineapple.4c67fa50a7c55f48515e.png",
+    "static/media/Cointreau.jpeg": "/My-bar-algorithm/static/media/Cointreau.ac422b4cb8527a1ea898.jpeg",
+    "static/media/Moktail.png": "/My-bar-algorithm/static/media/Moktail.317521b965fd166857ab.png",
+    "static/media/sexOnTheBeach.png": "/My-bar-algorithm/static/media/sexOnTheBeach.2bd1748cbe8d929ee946.png",
+    "static/media/Americano.jpg": "/My-bar-algorithm/static/media/Americano.178f748c65237406085f.jpg",
+    "static/media/mojito.jpg": "/My-bar-algorithm/static/media/mojito.171f2fbba257658e3cfb.jpg",
+    "static/media/Mimosa.jpg": "/My-bar-algorithm/static/media/Mimosa.c50b7acc028b7619f972.jpg",
+    "static/media/vodkaOrange.webp": "/My-bar-algorithm/static/media/vodkaOrange.abd235dda5dbd0456d4a.webp",
+    "static/media/Hurricane.jpg": "/My-bar-algorithm/static/media/Hurricane.f0abbc59b2b7a21961b0.jpg",
+    "static/media/BlueLagon.webp": "/My-bar-algorithm/static/media/BlueLagon.a4e337e7ceca65cad795.webp",
+    "index.html": "/My-bar-algorithm/index.html",
+    "main.3a789c21.css.map": "/My-bar-algorithm/static/css/main.3a789c21.css.map",
+    "main.b50d91b3.js.map": "/My-bar-algorithm/static/js/main.b50d91b3.js.map",
+    "787.f726a875.chunk.js.map": "/My-bar-algorithm/static/js/787.f726a875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a789c21.css",
-    "static/js/main.844ddd41.js"
+    "static/js/main.b50d91b3.js"
   ]
 }
