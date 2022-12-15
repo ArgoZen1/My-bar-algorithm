@@ -4,4 +4,5 @@
 -Conception de fausses données dans un fichier model.<br>
 -Implementation d'un systeme de recherche.<br> 
 -Style simple sur ce projet, le but etait de faire un projet afin de pouvoir recherche les cocktails via leur nom.<br> 
--Utilisation de Sass sur ce projet.<br> 
+-Utilisation de Sass sur ce projet.<br>
+-Porjet disponible ici : https://argozen1.github.io/My-bar-algorithm/
