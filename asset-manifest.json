@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-bar-algorithm/static/css/main.3a789c21.css",
-    "main.js": "/My-bar-algorithm/static/js/main.b50d91b3.js",
+    "main.css": "/My-bar-algorithm/static/css/main.f95e870c.css",
+    "main.js": "/My-bar-algorithm/static/js/main.6a5432c8.js",
     "static/js/787.f726a875.chunk.js": "/My-bar-algorithm/static/js/787.f726a875.chunk.js",
     "static/media/Pineapple.png": "/My-bar-algorithm/static/media/Pineapple.4c67fa50a7c55f48515e.png",
     "static/media/Cointreau.jpeg": "/My-bar-algorithm/static/media/Cointreau.ac422b4cb8527a1ea898.jpeg",
@@ -14,12 +14,12 @@
     "static/media/Hurricane.jpg": "/My-bar-algorithm/static/media/Hurricane.f0abbc59b2b7a21961b0.jpg",
     "static/media/BlueLagon.webp": "/My-bar-algorithm/static/media/BlueLagon.a4e337e7ceca65cad795.webp",
     "index.html": "/My-bar-algorithm/index.html",
-    "main.3a789c21.css.map": "/My-bar-algorithm/static/css/main.3a789c21.css.map",
-    "main.b50d91b3.js.map": "/My-bar-algorithm/static/js/main.b50d91b3.js.map",
+    "main.f95e870c.css.map": "/My-bar-algorithm/static/css/main.f95e870c.css.map",
+    "main.6a5432c8.js.map": "/My-bar-algorithm/static/js/main.6a5432c8.js.map",
     "787.f726a875.chunk.js.map": "/My-bar-algorithm/static/js/787.f726a875.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a789c21.css",
-    "static/js/main.b50d91b3.js"
+    "static/css/main.f95e870c.css",
+    "static/js/main.6a5432c8.js"
   ]
 }
